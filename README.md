@@ -180,7 +180,7 @@ O sistema consome uma API que foi desenvolvida utilizando ASP.NET Core e SQL Ser
 
    ```sh
    dotnet run
-
+   ```
    Ou execute abrindo a pasta back-end no Visual Studio e dando F5
 
 5. Instale as dependências do frontend:
